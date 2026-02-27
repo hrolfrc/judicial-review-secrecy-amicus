@@ -1,5 +1,3 @@
-# judicial-review-secrecy-amicus
-
 # Judicial Review Cannot Be Defeated by Secrecy  
 ### Draft Amicus Curiae Brief
 
